@@ -1,3 +1,9 @@
+/**
+ * main - printing a line with printf instead of puts
+ *
+ * Return: Always 0.
+ */
+
 #include <stdio.h>
 
 int main(void)
