@@ -1,3 +1,8 @@
+/**
+ * main - printing numbers and alphabets
+ *
+ * Return: Always 0.
+ */
 #include <stdio.h>
 
 int main(void)
@@ -8,7 +13,8 @@ int main(void)
 		{
 			putchar(abdnum);
 		}
-	for (abdnum = 'a'; abdnum <= 'f'; abdnum++)
+
+		for (abdnum = 'a'; abdnum <= 'f'; abdnum++)
 		{
 			putchar(abdnum);
 		}
