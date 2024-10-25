@@ -1,10 +1,15 @@
+/**
+ * jack_bauer - as
+ *
+ * Return: void
+ */
 #include "main.h"
 
 void jack_bauer(void)
 
 {
 	int h, m;
-	
+
 	for (h = 0; h <= 23; h++)
 	{
 		for (m = 0; m <= 59; m++)
@@ -16,5 +21,5 @@ void jack_bauer(void)
 			_putchar(m % 10 + '0');
 			_putchar('\n');
 		}
-	}	
+	}
 }
