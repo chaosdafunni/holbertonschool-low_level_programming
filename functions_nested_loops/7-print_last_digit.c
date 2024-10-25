@@ -15,7 +15,7 @@ int print_last_digit(int num)
 	if (mun < 0)
 
 	mun *= -1;
-		
+
 
 	_putchar(mun + '0');
 
