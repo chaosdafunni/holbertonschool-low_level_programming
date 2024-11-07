@@ -1,5 +1,4 @@
 /**
- *
  * _strspn - getting the lenght of a prefix substring
  *
  * @s: character used to check
