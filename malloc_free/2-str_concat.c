@@ -1,7 +1,7 @@
 /**
  * *str_concat - concatenates strings
  * @s1: string to concatenate
- * @s2: other string 
+ * @s2: other string
  *
  * Return: s3
  */
