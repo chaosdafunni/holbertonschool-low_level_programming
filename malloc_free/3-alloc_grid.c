@@ -1,7 +1,7 @@
 /**
  * *alloc_grid - makes two dimensional array
  * @width: with of the matix
- * @height of the matrix
+ * @height: of the matrix
  *
  * Return: arr
  */
