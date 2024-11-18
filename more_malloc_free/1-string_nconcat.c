@@ -2,9 +2,9 @@
  * *string_nconcat - concatenates bytes of a string other string
  * @s1: string to append to
  * @s2: string to concatenate from
- * @n: number of bytes 
+ * @n: number of bytes
  *
- * Return: pointer 
+ * Return: pointer
  */
 #include "main.h"
 #include <stdlib.h>
