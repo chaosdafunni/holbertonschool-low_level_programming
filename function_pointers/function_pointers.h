@@ -1,3 +1,5 @@
+#ifndef PTR_H
+#define PTR_H
 #include <stddef.h>
 
 void print_name(char *name, void (*f)(char *));
@@ -16,4 +18,4 @@ int op_div(int a, int b);
 
 int op_mod(int a, int b);
 
-
+#endif
