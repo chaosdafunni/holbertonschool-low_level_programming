@@ -1,5 +1,4 @@
 /**
- *
  * int_index - searches for int
  *
  * @array:array used to search
