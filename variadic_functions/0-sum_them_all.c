@@ -1,6 +1,6 @@
 /**
  * sum_them_all - sum all parameters
- * @n: number of args passed 
+ * @n: number of args passed
  *
  * Return: sum
  */
